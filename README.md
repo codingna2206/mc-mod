@@ -1,2 +1,3 @@
-# mc-mod
-minecraft hack mod
+# To-Do-List
+
+A simple python app that simulate To Do list 
